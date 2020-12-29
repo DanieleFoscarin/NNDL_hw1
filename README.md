@@ -44,9 +44,13 @@ The homework should be implemented in Python using the PyTorch framework. The st
 Along with the source code, you must separately upload a PDF file containing a brief report of your homework. The report should include a brief Introduction on which you explain the homework goals and the main implementation strategies you choose, a brief Method section where you describe your model architectures and hyperparameters, and a Result section where you present the simulation results. Total length should not exceed 6 pages, though you can include additional tables and figures in a final Appendix (optional).
 
 
-
-## Final report
-Along with the source code, you must separately upload a PDF file containing a brief report of your homework. The report should include a brief Introduction on which you explain the homework goals and the main implementation strategies you choose, a brief Method section where you describe your model architectures and hyperparameters, and a Result section where you present the simulation results. Total length should not exceed 6 pages, though you can include additional tables and figures in a final Appendix (optional).
+## Grade
+The maximum grade for this homework will be **8 points**. Points will be assigned based on the correct implementation of the following items:
+*	2 pt: implement basic regression and classification tasks
+*	2 pt: explore advanced optimizers and regularization methods 
+*	1 pt: optimize hyperparameters using grid/random search and cross-validation
+*	2 pt: implement CNN for classification task
+*	1 pt: visualize weight histograms, activation profiles and receptive fields
 
 
 
